@@ -31,7 +31,7 @@ You can use Postman to easily test the Flask API endpoints. Follow these steps t
 2. **Start the Flask Application**: Ensure your Flask application is running locally. If not, start it using:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 3.  Set Up Postman Environment (Optional): Set up a Postman environment to store variables like base_url (http://localhost:5000 by default).
